@@ -12,6 +12,10 @@
         <module>factory-method</module>
         <module>abstract-factory</module>
         <module>builder</module>
+        <module>command</module>
+        <module>iterator</module>
+        <module>observer</module>
+        <module>state</module>
     </modules>
 
 
