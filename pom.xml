@@ -16,6 +16,10 @@
         <module>iterator</module>
         <module>observer</module>
         <module>state</module>
+        <module>command</module>
+        <module>iterator</module>
+        <module>observer</module>
+        <module>state</module>
     </modules>
 
 
